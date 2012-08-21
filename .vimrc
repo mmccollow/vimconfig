@@ -8,3 +8,4 @@ set ruler
 set number
 set t_Co=256
 colorscheme molokai
+let g:neocomplcache_enable_at_startup=1
